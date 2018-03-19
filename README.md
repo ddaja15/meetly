@@ -1,4 +1,3 @@
 # Meetly
 
-A job distribution system
-Se di
+A job tracking and distribution system.
