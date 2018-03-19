@@ -26,7 +26,7 @@
 
 <h2><strong>The solution:</strong></h2>
   A Job Management System web application used by the administrator to perform the following operations:
-    <strong>Module 1: Dashboard</strong> 
+    <br><strong>Module 1: Dashboard</strong> 
       <ol>
         <li>Realtime job/employee statistics</li>
         <li>Weekly Employee Performance</li>
@@ -53,7 +53,7 @@
       
       
  A cross-platform mobile application used by the employees to perform the following operations:
-  <strong>Module 1: Map Based Personal Job Tracking</strong> 
+  <br><strong>Module 1: Map Based Personal Job Tracking</strong> 
     <ol>
       <li>Watch and search for assigned jobs</li>
       <li>Job prioritization</li>
