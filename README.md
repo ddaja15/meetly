@@ -3,7 +3,7 @@
 <h2><strong>The motivation:</strong></h2>
   Up until these days, institutions whose activity was related to terrain work in Albania suffered in multiple managing areas. 
   The difficulties that these institutions came upon involve:
-   <strong>On the administrator side:</strong>
+   <br><strong>On the administrator side:</strong>
     <ol>
       <li>Keeping track of employees tasks</li>
       <li>Keeping track of employees locations in real-time</li>
