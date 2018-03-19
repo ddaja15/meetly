@@ -1,1 +1,3 @@
-# meetly
+# Meetly
+
+A job distribution system
